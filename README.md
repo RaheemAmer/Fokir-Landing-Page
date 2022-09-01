@@ -5,4 +5,4 @@ A simple basic landing page project for Route practising HTML and CSS
 - [Fokir-landing-page](https://raheemamer.github.io/Fokir-Landing-Page/)
 
 ## Snapshots
-![image](https://user-images.githubusercontent.com/18606136/187845272-d53e5b9c-aee2-444d-8e00-386db090956b.png)
+![image](https://user-images.githubusercontent.com/18606136/187845368-3f9fe784-ea1c-4812-a1ad-09c3fbe2f096.png)
