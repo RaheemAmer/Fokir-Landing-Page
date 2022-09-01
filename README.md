@@ -1,2 +1,7 @@
-# Fokir---Landing-Page
-A landing page project for Route
+# Fokir-Landing-Page
+A simple basic landing page project for Route practising HTML and CSS
+
+## Demo-link
+- []()
+
+## Snapshots
